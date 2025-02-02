@@ -1,3 +1,0 @@
-﻿  main.cpp
-F:\c++\WinApi part2\src\main.cpp(103,61): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
-  WinApi part2.vcxproj -> F:\c++\WinApi part2\x64\Debug\WinApi part2.exe
