@@ -1,0 +1,3 @@
+F:/c++/WinApi part2/build/CMakeFiles/GameEngine.dir
+F:/c++/WinApi part2/build/CMakeFiles/ALL_BUILD.dir
+F:/c++/WinApi part2/build/CMakeFiles/ZERO_CHECK.dir

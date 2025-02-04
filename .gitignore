@@ -1,3 +1,10 @@
 WinApi_part2/
 x64/
 .vs/
+
+# VS files
+GameEngine.sln
+GameEngine.user
+GameEngine.vcxproj
+GameEngine.filters
+cpp.hint
